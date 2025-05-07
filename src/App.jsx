@@ -10,6 +10,7 @@ import Faq from './component/Faq';
 import Errorpage from './component/Errorpage';
 import BlogStandard from './component/BlogStandard'
 import BlogSingle from './component/blogsingle';
+
 import Shopcatalog from './component/Shopcatalog';
 import Sidebarcatalog from './component/Sidebarcatalog';
 import Shopsingle from './component/Shopsingle';
