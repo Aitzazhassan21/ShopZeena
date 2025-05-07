@@ -77,10 +77,10 @@ const Header = () => {
           <ul className="top-bar-acc">
             <li className="top-bar-link"><NavLink to="">My Wishlist</NavLink></li>
             <li className="top-bar-link"><NavLink to="">Newsletter</NavLink></li>
-            <li className="top-bar-link"><NavLink to="/Auth">Login</NavLink></li>                 
+            <li className="top-bar-link"><NavLink to="">Login</NavLink></li>                 
           </ul>
         </div>
-      </div>
+      </div> 
     </div> {/* end top bar */}
     <nav className="navbar navbar-static-top">
       <div className="navigation" id="sticky-nav">

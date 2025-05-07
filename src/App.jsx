@@ -8,14 +8,13 @@ import About from './component/About';
 import Contact from './component/Contact';
 import Faq from './component/Faq';
 import Errorpage from './component/Errorpage';
-import BlogStandard from './component/blogstandard';
+import BlogStandard from './component/BlogStandard'
 import BlogSingle from './component/blogsingle';
 import Shopcatalog from './component/Shopcatalog';
 import Sidebarcatalog from './component/Sidebarcatalog';
 import Shopsingle from './component/Shopsingle';
 import Shopcart from './component/Shopcart';
 import Shopcheckout from './component/Shopcheckout';
-import Auth from './component/Auth/Auth';
 
 
 import './App.css';
@@ -39,7 +38,7 @@ const App = () => {
           <Route path='/shop-single' element={<Shopsingle/>}/>
           <Route path='/shop-cart' element={<Shopcart/>}/>
           <Route path='/shop-checkout' element={<Shopcheckout/>}/>
-          <Route path='/Auth' element={<Auth/>}/>
+      
           
         </Routes>
         <Footer />
