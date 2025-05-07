@@ -1,6 +1,4 @@
-.clearfix {
-    *zoom: 1
-}
+
 
 .clearfix:after,
 .clearfix:before {
@@ -6761,4 +6759,4 @@ abbr.required {
     }
 }
 
-/*# sourceMappingURL=style.min.css.map */
+/* sourceMappingURL=style.min.css.map */
